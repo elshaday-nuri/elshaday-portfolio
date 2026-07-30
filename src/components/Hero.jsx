@@ -100,7 +100,21 @@ function Hero() {
               <p>{"};"}</p>
             </div>
           </div>
+<div className="hero-visual">
+  <div className="hero-card">
+    {/* your existing code card */}
+  </div>
 
+  {/* NEW PROFILE PHOTO */}
+  <div className="profile-photo">
+    <img src="/profile.png" alt="Elshaday Nuri" />
+  </div>
+
+  <div className="experience-badge">
+    <strong>Full Stack</strong>
+    <span>Web Development</span>
+  </div>
+</div>
           <div className="experience-badge">
             <strong>Full Stack</strong>
             <span>Web Development</span>
