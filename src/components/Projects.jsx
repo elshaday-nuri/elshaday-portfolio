@@ -49,8 +49,8 @@ function Projects() {
                   />
 
                   <div className="project-image-placeholder">
-                    <span>Project Screenshot</span>
-                    <p>Add an image inside public/project-images</p>
+                    <span>appointment request system</span>
+                    <p>appointment request system</p>
                   </div>
                 </div>
 
