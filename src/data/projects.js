@@ -42,37 +42,38 @@ const projects = [
     featured: true,
   },
 
-  {
-    id: 2,
-    title: "Appointment Request System",
-
-    description:
-      "A responsive appointment request web application that allows users to submit appointment requests through a clean and user-friendly interface. The project demonstrates frontend validation, backend processing, and email notification functionality.",
-
-    image: "/project-images/appointment-project.png",
-
-    technologies: [
-      "React",
-      "JavaScript",
-      "CSS",
-      "Node.js",
-      "Express.js",
-      "Nodemailer",
-    ],
-
-    features: [
-      "Responsive appointment form",
-      "Client-side validation",
-      "Backend email handling",
-      "Confirmation messages",
-      "Clean user interface",
-    ],
-
-    liveUrl: "",
-    githubUrl: "",
-
-    featured: false,
-  },
+{
+  id: 2,
+  title: "Mavie Medical Center",
+  description:
+    "A full-stack medical appointment management system that allows patients to request appointments online and gives administrators a secure dashboard to review and manage appointment requests.",
+  image: "/project-images/mavie-project.png",
+  technologies: [
+    "React",
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "MySQL",
+    "Axios",
+    "JWT",
+    "Vercel",
+    "Railway",
+  ],
+  features: [
+    "Online appointment request form",
+    "Client-side form validation",
+    "Secure admin login",
+    "Admin dashboard",
+    "Appointment management",
+    "REST API integration",
+    "MySQL database",
+    "Responsive design",
+    "Cloud deployment",
+  ],
+  liveUrl: "https://mavie-medical-center.vercel.app/appointment",
+  githubUrl: "https://github.com/elshaday-nuri/mavie-medical-center",
+  featured: false,
+},
 ];
 
 export default projects;
