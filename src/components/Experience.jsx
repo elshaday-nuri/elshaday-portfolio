@@ -9,9 +9,8 @@ const experienceItems = [
     id: 1,
     type: "education",
     icon: <FaLaptopCode />,
-    date: "2026",
     title: "Full-Stack Web Development Program",
-    organization: "Software Development Bootcamp",
+    organization: "Momona Tech",
     description:
       "Completed hands-on training in frontend and backend development using HTML, CSS, JavaScript, React, Node.js, Express.js, MySQL, Git, GitHub, APIs, and responsive design.",
     highlights: [
@@ -26,22 +25,22 @@ const experienceItems = [
     type: "work",
     icon: <FaBriefcase />,
     date: "2024 – Present",
-    title: "Sales Associate",
-    organization: "WHSmith North America / Marshall Retail Group",
+    title: "Full-Stack Web Developer",
+    organization: "ALX Sand Technologies",
     description:
-      "Provide customer service in a fast-paced airport retail environment while handling transactions, organizing merchandise, and supporting daily store operations.",
+      "Develop and maintain responsive full-stack web applications using React, JavaScript, Node.js, Express.js, and MySQL.",
     highlights: [
-      "Communicate with diverse customers",
-      "Process sales accurately",
-      "Work effectively under pressure",
-      "Collaborate with team members",
+      "Build REST APIs and integrate MySQL databases",
+      "Develop responsive, user-friendly interfaces",
+      "Test, debug, and deploy web applications",
+      "Collaborate on full-stack development projects",
     ],
   },
   {
     id: 3,
     type: "work",
     icon: <FaBriefcase />,
-    date: "2023 – 2024",
+    date: "2022 – 2024",
     title: "Graphic Designer",
     organization: "Menbere Printing",
     description:
@@ -57,7 +56,7 @@ const experienceItems = [
     id: 4,
     type: "work",
     icon: <FaBriefcase />,
-    date: "2021 – 2024",
+    date: "2021 – 2022",
     title: "Data Entry Assistant",
     organization: "Tender Ethiopia",
     description:

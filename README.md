@@ -1,16 +1,107 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This is my personal portfolio website built to showcase my skills, projects, education, and professional experience as a Junior Full-Stack Developer. The website is fully responsive and designed to provide employers and recruiters with an overview of my work.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Demo
 
-## React Compiler
+https://elshaday-portfolio.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- Responsive modern design
+- About Me section
+- Technical Skills section
+- Featured Projects
+- Education & Experience timeline
+- Downloadable Resume
+- Contact Form
+- GitHub and LinkedIn links
+- Dark/Light mode support
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Projects Included
+
+### Gebeya – Full-Stack E-Commerce Platform
+- React
+- Node.js
+- Express.js
+- MySQL
+- JWT Authentication
+- Railway
+- Vercel
+
+### Mavie Medical Center
+- React
+- Node.js
+- Express.js
+- MySQL
+- Appointment Booking System
+- Admin Dashboard
+- Email Notifications
+
+## Technologies Used
+
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- Node.js
+- Express.js
+- MySQL
+- Axios
+- JWT Authentication
+- Git
+- GitHub
+- Vercel
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/elshaday-nuri/elshaday-portfolio.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## Folder Structure
+
+```
+personal-portfolio/
+│
+├── public/
+├── src/
+├── package.json
+├── vite.config.js
+├── index.html
+└── README.md
+```
+
+## Author
+
+**Elshaday Nuri**
+
+GitHub:
+https://github.com/elshaday-nuri
+
+Portfolio:
+https://elshaday-portfolio.vercel.app/
